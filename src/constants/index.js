@@ -64,7 +64,7 @@ export const PROJECTS = [
     title: "Weather Notifier Web App",
     image: project4,
     description:
-      "A Weather Notifier Web App which tells you everything about the weather of a particulat city of your desire",
+      "A Weather Notifier Web App which tells you everything about the weather of a particular city of your desire",
     technologies: ["HTML", "CSS", "Reactjs", "Express", "axios"],
   },
 ];
